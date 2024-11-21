@@ -2,7 +2,7 @@ import os
 import subprocess
 import random
 from pymetasploit3.msfrpc import MsfRpcClient
-
+#fdkslafjaklfs
 # Step 1: Disable Windows Defender
 def disable_windows_defender():
     try:
